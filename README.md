@@ -48,7 +48,7 @@
 <br>
 <p>
   
-<strong>I am a full-stack web developer. I've been working on web development for five year now, while still studying at the college. <br/>I have well knowledge of developing, testing and maintaining website. <br/> About back-end, I am using php, laravel framework. <br/`> About font-end, I am enjoin coding in HTML, css, Javascript and framework like vuejs, react and more.</strong>
+<strong>I am a full-stack web developer. I've been working on web development for five year now, while still studying at the college. <br/>I have well knowledge of developing, testing and maintaining website. <br/> About back-end, I am using php, mysql, laravel framework. <br/> About font-end, I am enjoin coding in HTML, css, Javascript and framework like vuejs, react and more.</strong>
 </p>
 
 <br>
