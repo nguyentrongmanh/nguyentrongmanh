@@ -43,7 +43,14 @@
 <span><img src="https://img.shields.io/badge/WordPress-282C34?logo=wordPress&logoColor=21759B" alt="WordPress logo" title="WordPress" height="25" /></span>
 &nbsp;
 <br>
-<h2 align="center">📑 My Favorites Quote 📑</h2>
+
+<h2 align="center">👽 About me 👽</h2>
+<br>
+<p>
+  
+<strong>I am a full-stack web developer. I've been working on web development for five year now, while still studying at the college. <br/>I have well knowledge of developing, testing and maintaining website. <br/> About back-end, I am using php, laravel framework. <br/`> About font-end, I am enjoin coding in HTML, css, Javascript and framework like vuejs, react and more.</strong>
+</p>
+
 <br>
 <a href="#" target="_blank">
   <img src="svg/nguyentrongmanh-quotes.svg" width="846" height="150" alt="nguyentrongmanh-official" />
